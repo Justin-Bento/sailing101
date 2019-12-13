@@ -87,7 +87,6 @@ nav ul li a:hover {
   #navPhoneMenu {
     display: inline-block;
     font-size: 25px;
-    float: left;
     margin: 15px;
     padding: 0px;
   }
